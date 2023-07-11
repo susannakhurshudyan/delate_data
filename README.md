@@ -1,1 +1,0 @@
-# delate_data
